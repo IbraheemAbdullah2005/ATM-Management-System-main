@@ -6,6 +6,7 @@ bin/
 
 # IntelliJ IDEA
 .idea
+out/
 
 # OS junk
 .DS_Store
